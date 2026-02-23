@@ -88,9 +88,9 @@ Universidad Tecnológica de Santiago (UTESA)
 
 ---
 
-## 📸 Evidencias (Opcional)
+## 📸 Evidencias del Proyecto
 
-Aquí pueden agregarse capturas de pantalla del funcionamiento de la aplicación.
+![Screenshot 2026-02-23 at 12.56.00 PM.png](../../../../../var/folders/h1/y4hr8z496td69rhct3w92ndw0000gn/T/TemporaryItems/NSIRD_screencaptureui_v0OoN1/Screenshot%202026-02-23%20at%2012.56.00%E2%80%AFPM.png)
 
 ---
 
