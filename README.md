@@ -88,12 +88,6 @@ Universidad Tecnológica de Santiago (UTESA)
 
 ---
 
-## 📸 Evidencias del Proyecto
-
-![Screenshot 2026-02-23 at 12.56.00 PM.png](../../../../../var/folders/h1/y4hr8z496td69rhct3w92ndw0000gn/T/TemporaryItems/NSIRD_screencaptureui_v0OoN1/Screenshot%202026-02-23%20at%2012.56.00%E2%80%AFPM.png)
-
----
-
 ## 📌 Conclusión
 
 Este proyecto permitió aplicar los conceptos fundamentales de desarrollo de interfaces gráficas en Android, reforzando el uso de componentes visuales, captura de datos y manipulación desde código Kotlin.
